@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I think i'm very **sarcastic** (but in a funny way).
+- I enjoy talking about **ideas**.
+- I want to **change the world for the better**.
